@@ -2,7 +2,7 @@
 
 I'm a Data Scientist and Machine Learning Engineer with a background in quality project management in the chemical industry and a recent graduate of Flatiron School.  I'm passionate about solving data-driven problems, learning the latest statistical models, and a firm believer that data will change how we run the world.
 
-My experience in managing laboratories, quality control, statistical analysis, and machine learning has taught me to always embrace a good problem to solve.
+My experience in managing laboratories, quality control, statistical analysis, and machine learning has taught me there is always a way to solve the problem.
 
 - 🔭 I’m currently working on learning R
 - 🌱 I’m currently growing my Tableau skills
