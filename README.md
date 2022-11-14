@@ -9,7 +9,7 @@ My experience in managing laboratories, quality control, statistical analysis, a
 - 👯 I’m looking to collaborate on data science and machine learning projects that have a positive environmental impact
 - 💬 Ask me about why sharks are not the horrible monsters they have been made out to be
 - 🌇 San Antonio based
-- 🌊 Goal: Scuba dive on every continent
+- 🌊 Goal: Scuba dive on every continent (maybe just visit Antarctica ⛄ )
 
 <!--
 **meljoy1099/meljoy1099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
