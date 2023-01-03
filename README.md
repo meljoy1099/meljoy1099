@@ -1,8 +1,8 @@
 ### Hi there! I'm Melody! 👋
 
-I'm a Data Scientist and Machine Learning Engineer with a background in quality project management in the chemical industry and a recent graduate of Flatiron School.  I'm passionate about solving data-driven problems, learning the latest statistical models, and a firm believer that data will change how we run the world.
+I'm a Data Scientist and Machine Learning Engineer with a background in quality project management in the chemical industry and a recent graduate of Flatiron School. My experience in managing laboratories, conducting statistical analysis, and implementing machine learning models has given me the skills and confidence to tackle any challenge. 
 
-My experience in managing laboratories, quality control, statistical analysis, and machine learning has taught me there is always a way to solve the problem.
+I am passionate about staying up-to-date with the latest statistical models and utilizing data visualization to effectively communicate insights. I believe that my background in chemistry gives me a unique perspective in the field of data science and I am eager to apply my knowledge and experience to drive decision-making and make an impact. I believe that data will play a crucial role in shaping the future and I am excited to be a part of that transformation.
 
 - 🔭 I’m currently working on learning R
 - 🌱 I’m currently growing my Tableau skills
