@@ -4,7 +4,7 @@ I'm a Data Scientist and Machine Learning Engineer with a background in quality 
 
 I am passionate about staying up-to-date with the latest statistical models and utilizing data visualization to effectively communicate insights. I believe that my background in chemistry gives me a unique perspective in the field of data science and I am eager to apply my knowledge and experience to drive decision-making and make an impact. I believe that data will play a crucial role in shaping the future and I am excited to be a part of that transformation.
 
-- 🔭 I’m currently working on learning R
+- 🔭 I’m currently working on learning Power BI
 - 🌱 I’m currently growing my Tableau skills
 - 👯 I’m looking to collaborate on data science and machine learning projects that have a positive environmental impact
 - 💬 Ask me about why sharks are not the horrible monsters they have been made out to be
